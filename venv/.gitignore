@@ -1,6 +1,0 @@
-# created by virtualenv automatically
-blog/migrations/
-users/migrations/
-venv/
-db.sqlite3
-.idea/
